@@ -22,7 +22,7 @@ $ npm install
 ```
 $ npm start
 
-or Run with nodemon
+# or Run with nodemon
 
 $ npm run dev
 ```
